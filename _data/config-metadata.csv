@@ -1,24 +1,24 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-creator_description,
+creator_description,Artist Description,
 date,Date Created,
 description,Description,
 subject,Subjects,true
-physical_dimensions,
-materials,
-location,Location
+physical_dimensions,Physical Dimensions,
+materials,Materials,
+location,Location,
 latitude,Latitude
 longitude,Longitude
-availability,
-physical_description,
-commissioner,
-commission_date,
-commission_cost,
-ownership,
-purchase_price,
-inscription_marks,
-edition,
+availability,Availability,
+physical_description,Physical Description,
+commissioner,Commissioner,
+commission_date,Commission Date
+commission_cost,Commission Cost
+ownership,Ownership,
+purchase_price,Purchase Price,
+inscription_marks,Inscription Marks,
+edition,Edition,
 image_alt_text,
 source,Source
 identifier,Source Identifier,,
