@@ -1,12 +1,25 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
+creator_description,
 date,Date Created,
 description,Description,
 subject,Subjects,true
+physical_dimensions,
+materials,
 location,Location
 latitude,Latitude
 longitude,Longitude
+availability,
+physical_description,
+commissioner,
+commission_date,
+commission_cost,
+ownership,
+purchase_price,
+inscription_marks,
+edition,
+image_alt_text,
 source,Source
 identifier,Source Identifier,,
 type,Type,
