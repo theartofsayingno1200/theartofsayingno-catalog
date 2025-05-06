@@ -17,13 +17,13 @@ commission_date,Commission Date
 ownership,Ownership,
 inscription_marks,Inscription Marks,
 edition,Edition,
-image_alt_text,
+image_alt_text,Additional Information,
 source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
-token_id,Token ID
-token_standard,Token Standard
-blockchain,Blockchain
+token_id,Token ID,
+token_standard,Token Standard,
+blockchain,Blockchain,
