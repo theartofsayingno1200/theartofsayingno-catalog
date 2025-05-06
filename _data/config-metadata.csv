@@ -14,9 +14,7 @@ availability,Availability,
 physical_description,Physical Description,
 commissioner,Commissioner,
 commission_date,Commission Date
-commission_cost,Commission Cost
 ownership,Ownership,
-purchase_price,Purchase Price,
 inscription_marks,Inscription Marks,
 edition,Edition,
 image_alt_text,
@@ -26,3 +24,6 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+token_id,Token ID
+token_standard,Token Standard
+blockchain,Blockchain
