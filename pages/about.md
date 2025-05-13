@@ -14,14 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This collection of artworks from artist Michael Stenerson was created for the Information Organization class at the University of Iowa’s School of Library and Information Science program. The Art Of Saying No is the business name of Michae’s art practice, consisting of paintings and drawings in the genre of Style Writing, an art movement birthed on the NYC subways in the late 60's and pioneered in the 70's. The art focuses on letterforms and the abstraction of the letter’s architecture. Color and movement is central to the exploration and research of these themes. 
+Michael grew up skateboarding, doing graffiti, photography, and music. Throughout the years he has continued to refine his craft and consistently stayed creative. Along with painting and music, he has worked as a professional photographer for most of his career. 
+More artwork can be found at the webshop: The Art of Saying No
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
